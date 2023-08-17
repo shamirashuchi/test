@@ -1,6 +1,0 @@
-{{#user}
-Name: Shamira
-Skills: HTML, CSS, JS, Next.js,Reactjs,Tailwind css, Bootstrap
-Email: shamira170201032@gmail.com
-{{/user}}
-}
